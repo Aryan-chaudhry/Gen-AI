@@ -1,0 +1,1 @@
+allDosa = [item for item in menu if "dosa" in item]
